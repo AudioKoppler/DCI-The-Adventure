@@ -1,0 +1,24 @@
+body {
+    background-color: cadetblue;
+
+}
+
+p {
+    margin-top: 10px;
+    font-size: x-large;
+}
+
+b {
+    font-size: 30px;
+}
+
+#game-text {
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+    height: 200px;
+}
+
+#room-pic {
+    height: 350px;
+    width: 550px;
+}
